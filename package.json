@@ -1,0 +1,23 @@
+{
+  "name": "astync-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduuardo7/astync-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eduuardo7/astync-landing/issues"
+  },
+  "homepage": "https://github.com/Eduuardo7/astync-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
